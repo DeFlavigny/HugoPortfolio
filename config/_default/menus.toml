@@ -1,0 +1,20 @@
+[[main]]
+    # Top-level menu entry
+    identifier = "discover"
+    name = "Discover"
+    url = "/discover/"
+    weight = 1
+
+[[main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    parent = "discover"
+    weight = 1
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    parent = "discover"
+    weight = 2

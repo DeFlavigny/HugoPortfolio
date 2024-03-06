@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Rowan Gagnon Portfolio'
+theme="liftoff"
+avatar="images/pfp.jpg"
