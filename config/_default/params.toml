@@ -7,9 +7,9 @@ disallow_search_engines = false # Disallow search engine crawling in robots.txt
 favicon = true # Enable favicon, add your favicon files to /static/ directory
 avatar = 'pfp.jpg' # Custom avatar image in /assets/
 grayscale_avatar = false # Add a grayscale filter to the avatar image
-author = 'John Doe' # Default author for <head> meta
-description = "Personal blog and portfolio site of John Doe." # Add a global meta description to <head>
-footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
+author = 'Rowan Gagnon' # Default author for <head> meta
+description = "Personal Game Development portfolio for Rowan Gagnon" # Add a global meta description to <head>
+footer_text = "I like games" # Customize footer text
 fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
